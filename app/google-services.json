@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "232508310318",
+    "firebase_url": "https://neuberfran-34893.firebaseio.com",
+    "project_id": "neuberfran-34893",
+    "storage_bucket": "neuberfran-34893.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232508310318:android:df4000df3ae7bc16",
+        "android_client_info": {
+          "package_name": "com.example.neuber.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232508310318-jcqm04fbj069i7mjnetmrcs23drs7qau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.neuber.firebase",
+            "certificate_hash": "ba8e727e6536639a687cf8f478e51e110a8808ac"
+          }
+        },
+        {
+          "client_id": "232508310318-a8ua1ttr60di2ksncc7ra94la6ghn5b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_ZH0015JQl1jAy2vPYvzoMzJcj-jy2Fo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232508310318-a8ua1ttr60di2ksncc7ra94la6ghn5b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232508310318:android:0e0a3f897643a2d0",
+        "android_client_info": {
+          "package_name": "com.zor.dev.simplebelnewsreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232508310318-a8ua1ttr60di2ksncc7ra94la6ghn5b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_ZH0015JQl1jAy2vPYvzoMzJcj-jy2Fo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232508310318:android:626c5ceac3e69048",
+        "android_client_info": {
+          "package_name": "com.zor.dev.simplebelnewsreader1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232508310318-a8ua1ttr60di2ksncc7ra94la6ghn5b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_ZH0015JQl1jAy2vPYvzoMzJcj-jy2Fo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
